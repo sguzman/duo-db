@@ -1,0 +1,2 @@
+# duo-db
+Duo schema
